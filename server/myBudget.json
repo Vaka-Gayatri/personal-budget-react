@@ -1,0 +1,30 @@
+[ {
+    "title": "Eat out",
+    "budget": 130
+},
+{
+    "title": "Rent",
+    "budget": 375
+},
+{
+    "title": "Grocery",
+    "budget": 125
+},
+{
+    "title": "Entertainment",
+    "budget": 150
+},
+{
+    "title": "University Fee",
+    "budget": 600
+},
+{
+    "title": "Water bill",
+    "budget": 140
+},
+{
+    "title": "Car EMI",
+    "budget": 800
+}
+
+]
